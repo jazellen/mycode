@@ -58,3 +58,4 @@ This project is licensed under the GNUv3 - see the [LICENSE.md](LICENSE.md) file
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+#about wanting to learn how to version control projects with git.
